@@ -1,19 +1,8 @@
 {
+"spider":"https://jihulab.com/Pizazz/tvbox/-/raw/main/spider.jar;md5;4e1063ce2f374a2e1dc8bfcdb08662f5",
+"wallpaper":"https://api.likepoems.com/img/bing",
     "sites":[
-	{
-	      "key": "ceshi",
-	      "name": "测试",
-	      "type": 1,
-	      "api": "https://haiwaikan.com/api.php/provide/vod",
-	      "searchable": 0,
-	      "changeable": 1,
-	      "categories": [
-	        "测试",
-	        "测试",
-	        "测试",
-	        "国产剧"
-	      ]
-        },
+	{"key":"豆瓣","name":"二〇二四","type":3,"api":"csp_Douban","searchable":0},
     ],
     "lives":[
 	{"name":"live","type":0,"url":"https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/live.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
