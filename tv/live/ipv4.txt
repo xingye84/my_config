@@ -2,6 +2,6 @@
 CCTV1,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
 CCTV1,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
 CCTV1,https://iptv.luas.edu.cn/liverespath/b455c7a019d404d571655c457e0ee8a9440a7802/e0eea3f2cd-0-0-7b16046e28b9e794d06c5fbcc82d37b9/index.m3u8
-CCTV2,https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
+CCTV2,http://113.24.136.82:8082/udp/239.1.1.8:8008
 国外,#genre#
 三立新闻,http://211.72.65.236:8543/.m3u8
