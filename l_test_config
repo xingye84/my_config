@@ -1,9 +1,9 @@
 {"spider":"./tv/file/spider.jar",
 "wallpaper":"https://api.likepoems.com/img/bing",
 "lives":
-	[{"name":"live","type":0,"url":"https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/live.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
+	[{"name":"live","type":0,"url":"https://mirror.ghproxy.com/raw.githubusercontent.com/xingye84/my_config/main/tv/live/ipv4.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
 "sites":
-	[{"key":"豆瓣","name":"测试","type":3,"api":"csp_Douban","searchable":0}],
+	[{"key":"豆瓣","name":"豆瓣","type":3,"api":"csp_Douban","searchable":0}],
 "parses":
 	[{"name":"聚合","type":3,"url":"Demo"},
 	{"name":"线路1","type":0,"url":"https://jx.xmflv.com/?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"}}},
