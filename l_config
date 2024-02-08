@@ -1,8 +1,8 @@
 {"spider":"./tv/file/spider.jar",
 "wallpaper":"https://api.likepoems.com/img/bing",
 "lives":[
-	    {"name":"推荐","type":0,"url":"https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/live.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-	    {"name":"测试","type":0,"url":"https://mirror.ghproxy.com/raw.githubusercontent.com/xingye84/my_config/main/tv/live/ipv4.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
+	    {"name":"自用1","type":0,"url":"https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/live.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+	    {"name":"自用2","type":0,"url":"https://mirror.ghproxy.com/raw.githubusercontent.com/xingye84/my_config/main/tv/live/ipv4.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
 	],
 "sites":
 	[{"key":"豆瓣","name":"豆瓣PG直播","type":3,"api":"csp_Douban","searchable":0}],
