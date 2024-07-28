@@ -1,7 +1,13 @@
 {"spider":"./tv/file/spider.jar",
 "wallpaper":"https://api.likepoems.com/img/bing",
 "lives":
-	[{"name":"自用2","type":0,"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/happybaihao/pan/main/live.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
+	[{
+            "name": "live",
+            "type": 0,
+            "url": "./tv/live/ipv6.txt",
+            "playerType": 1,
+            "epg": "http://epg.112114.eu.org/?ch={name}&date={date}"
+        },{"name":"自用2","type":0,"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/happybaihao/pan/main/live.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
 "sites":
 	[{"key":"豆瓣","name":"ipv4直播","type":3,"api":"csp_Douban","searchable":0}],
 "parses":
