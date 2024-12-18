@@ -1,5 +1,5 @@
 {
-  "spider": "./tv/file/spider.txt;md5;91d599b67a27b61562e8138ebf67d9b2",
+  "spider": "https://ghcy.eu.org/https://raw.githubusercontent.com/xingye84/my_config/main/tv/file/spider.txt;md5;91d599b67a27b61562e8138ebf67d9b2",
   "wallpaper": "https://api.likepoems.com/img/bing",
   "sites": [
     {
@@ -58,7 +58,7 @@
     {
       "name": "自用直播",
       "type": 0,
-      "url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/xingye84/my_pg_warehouse/my/live.txt",
+      "url": "https://ghcy.eu.org/https://raw.githubusercontent.com/xingye84/my_pg_warehouse/my/live.txt",
       "playerType": 2
     },
     {
