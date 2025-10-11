@@ -1,0 +1,9 @@
+https://gitee.com/maotoumao/MusicFreePlugins/raw/master/plugins.json
+https://gitee.com/kevinr/tvbox/raw/master/musicfree/plugins.json
+https://github.com/xxnuo/MusicFreePluginsHub/blob/main/dist/plugins.json
+http://music.haitangw.net/元力音乐.json
+https://13413.kstore.space/musicfree.json
+
+
+
+https://gitlab.com/acoolbook/musicfree/-/raw/main/music.json
