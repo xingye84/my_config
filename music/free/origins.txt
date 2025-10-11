@@ -7,3 +7,6 @@ https://13413.kstore.space/musicfree.json
 
 
 https://gitlab.com/acoolbook/musicfree/-/raw/main/music.json
+
+
+https://github.com/loikeo/loikeo.github.io/blob/ed0effc822444d423d93faaea79508d1da74b1e2/music.json
