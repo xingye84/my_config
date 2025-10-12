@@ -4,6 +4,9 @@ https://github.com/xxnuo/MusicFreePluginsHub/blob/main/dist/plugins.json
 http://music.haitangw.net/元力音乐.json
 https://13413.kstore.space/musicfree.json
 
+//新
+https://fastly.jsdelivr.net/gh/Huibq/keep-alive/Music_Free/myPlugins.json
+https://github.com/ThomasBy2025/musicfree/blob/main/plugins/plugins.json
 
 
 https://gitlab.com/acoolbook/musicfree/-/raw/main/music.json
